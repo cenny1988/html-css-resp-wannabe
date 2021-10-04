@@ -110,7 +110,8 @@ img {
     #why .row>.first,
     #why .row>.second,
     #why .row>.third {
-      margin-top: 0px;
+      margin-top: 20px;
+
     }
   
     #why .row img {
